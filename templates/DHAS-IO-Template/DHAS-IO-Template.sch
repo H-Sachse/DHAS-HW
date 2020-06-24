@@ -681,7 +681,7 @@ U 1 1 5EEAC523
 P 1400 3300
 F 0 "J1" H 1508 3881 50  0000 C CNN
 F 1 "Conn_01x09_Male" H 1508 3790 50  0000 C CNN
-F 2 "DHAS:TE_EP2.5_9p_Horizontal" H 1400 3300 50  0001 C CNN
+F 2 "Connector_TE-Connectivity.DHAS:TE_EP2.5_9p_Horizontal" H 1400 3300 50  0001 C CNN
 F 3 "~" H 1400 3300 50  0001 C CNN
 	1    1400 3300
 	1    0    0    -1  
@@ -812,6 +812,12 @@ Wire Wire Line
 Connection ~ 5050 6950
 Wire Wire Line
 	4100 7350 4200 7350
+Text Label 6500 7300 0    50   ~ 0
+PIO0_4
+Text Label 6500 7200 0    50   ~ 0
+PIO0_5
+Text Notes 4200 6750 0    50   ~ 0
+configuration eeprom\nset address to unique board ID (controller=0, 1st IO Board=1, ...)
 Wire Bus Line
 	9600 2100 9600 2700
 Wire Bus Line
@@ -828,10 +834,4 @@ Wire Bus Line
 	9600 1400 9600 2000
 Wire Bus Line
 	9650 4600 9650 5200
-Text Label 6500 7300 0    50   ~ 0
-PIO0_4
-Text Label 6500 7200 0    50   ~ 0
-PIO0_5
-Text Notes 4200 6750 0    50   ~ 0
-configuration eeprom\nset address to unique board ID (controller=0, 1st IO Board=1, ...)
 $EndSCHEMATC
