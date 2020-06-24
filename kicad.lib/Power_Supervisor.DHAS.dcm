@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APX825A-23
+D Watchdog, Voltage Supervisor 2.3V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+$ENDCMP
+#
+$CMP APX825A-26
+D Watchdog, Voltage Supervisor 2.7V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F http://www.ti.com/lit/ds/symlink/tpl5010.pdf
+$ENDCMP
+#
+$CMP APX825A-29
+D Watchdog, Voltage Supervisor 3.0V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F http://www.ti.com/lit/ds/symlink/tpl5010.pdf
+$ENDCMP
+#
+$CMP APX825A-31
+D Watchdog, Voltage Supervisor 3.15V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F http://www.ti.com/lit/ds/symlink/tpl5010.pdf
+$ENDCMP
+#
+$CMP APX825A-40
+D Watchdog, Voltage Supervisor 4.1V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F http://www.ti.com/lit/ds/symlink/tpl5010.pdf
+$ENDCMP
+#
+$CMP APX825A-44
+D Watchdog, Voltage Supervisor 4.5V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F http://www.ti.com/lit/ds/symlink/tpl5010.pdf
+$ENDCMP
+#
+$CMP APX825A-46
+D Watchdog, Voltage Supervisor 4.7V, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F http://www.ti.com/lit/ds/symlink/tpl5010.pdf
+$ENDCMP
+#
+$CMP APX825A-xx
+D Watchdog, Voltage Supervisor, 30µA, 1.1-2.4s, VDD 1.1V to 5.5V
+K timer watchdog supervisor
+F https://www.diodes.com/assets/Datasheets/APX823_824_825A.pdf
+$ENDCMP
+#
+#End Doc Library
