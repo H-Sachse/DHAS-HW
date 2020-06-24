@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DHAS)(type Legacy)(uri /home/hesa/devel/DHAS/PCB/kicad.lib/dhas.lib)(options "")(descr ""))
+)
