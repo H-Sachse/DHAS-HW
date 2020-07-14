@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name DHAS)(type KiCad)(uri ${KIPRJMOD}/../kicad.lib/DHAS.pretty)(options "")(descr "")(disabled))
+  (lib (name Connector_TE-Connectivity.DHAS)(type KiCad)(uri ${KIPRJMOD}/../kicad.lib/Connector_TE-Connectivity.DHAS.pretty)(options "")(descr ""))
+)
