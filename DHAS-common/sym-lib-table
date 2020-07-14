@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Device.DHAS)(type Legacy)(uri ${KIPRJMOD}/../kicad.lib/Device.DHAS.lib)(options "")(descr ""))
+)
